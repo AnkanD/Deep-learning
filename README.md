@@ -1,2 +1,2 @@
-# Deep-learning
-Templates for deep learning models
+# Deep-Learning
+Collection of all the templates for deep learning models
